@@ -7,7 +7,7 @@ import java.util.List;
  * @author ：Good_M
  * @date ：Created in 2021 2021/3/30 21:57
  */
-public class 倒序链表相加 {
+public class L2倒序链表相加 {
 
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
